@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "username": "sushmaa",
+      "name": "N Sushmaa",
+      "email": "sushmaanagari@gmail.com",
+      "phone": "656465",
+      "website": "https://netflix.com",
+      "address": {
+        "street": "10/269/1 MARATAGERI, ADONI, KURNOOL DIST, ANDHRA PRADESH",
+        "suite": "hvdr",
+        "city": "kanigiri",
+        "zipcode": "518972"
+      },
+      "company": {
+        "companyname": "amazon"
+      }
+    }
+  ]
+}
